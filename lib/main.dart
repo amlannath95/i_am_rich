@@ -9,6 +9,7 @@ void main() => runApp(
             ),
             backgroundColor: Colors.blueGrey[900],
           ),
+          backgroundColor: Colors.blueGrey,
         ),
       ),
     );
