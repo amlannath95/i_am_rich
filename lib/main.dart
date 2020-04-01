@@ -10,6 +10,11 @@ void main() => runApp(
             backgroundColor: Colors.blueGrey[900],
           ),
           backgroundColor: Colors.blueGrey,
+          body: Center(
+            child: Image(
+              image: AssetImage('images/diamond.png'),
+            ),
+          ),
         ),
       ),
     );
